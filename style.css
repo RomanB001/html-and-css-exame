@@ -1,11 +1,14 @@
 body {
+  height: 100vh;
   margin: 0;
   font-family: Arial, sans-serif;
   background: #fff;
+}
+/* main {
+  height: calc(100vh - 80px);
   overflow-y: auto;
   overflow-x: hidden;
-}
-
+} */
 .promo-bar {
   height: 20px;
   align-items: center;
